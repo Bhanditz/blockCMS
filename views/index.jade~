@@ -1,0 +1,26 @@
+doctype 5
+html(lang="fi")
+	head
+		meta(name="author",content="Miro 'leonarven' Nieminen")
+		link(rel="stylesheet",type="text/css",href="/css/style.css")
+		script(type="text/javascript", src="/js/jquery.min.js")
+		script(type="text/javascript", src="/js/script.js")
+		script(type="text/javascript")
+			window.page_id = !{page_idJson};
+			window.block =    parseBlock(!{JSON.stringify(blockJson)});
+			window.elements = parseElements(!{JSON.stringify(elementsJson)});
+			window.pages =    parsePages(!{JSON.stringify(pagesJson)});
+			window.site = generateSite(window.page_id);
+		style(type="text/css")
+			* {
+				margin:  0px;
+				padding: 0px;
+			}
+			body {
+				background-color: #efefef;
+			}
+			.element {
+				background-color: #ffffff;
+			}
+	body
+		section#content

@@ -1,0 +1,62 @@
+{
+    "0": {
+        "template_id": 0,
+        "name": "block",
+        "width": 1,
+        "height": 1,
+        "html": "",
+        "classes": [
+            "block"
+        ]
+    },
+    "1": {
+        "template_id": 1,
+        "name": "full",
+        "width": 10,
+        "height": 2,
+        "html": "",
+        "classes": []
+    },
+    "2": {
+        "template_id": 2,
+        "name": "medium",
+        "width": 5,
+        "height": 3,
+        "html": "",
+        "classes": []
+    },
+    "3": {
+        "template_id": 3,
+        "name": "small",
+        "width": 3,
+        "height": 3,
+        "html": "",
+        "classes": []
+    },
+    "4": {
+        "template_id": 4,
+        "name": "mini",
+        "width": 1,
+        "height": 1,
+        "html": "",
+        "classes": []
+    },
+    "5": {
+        "template_id": 5,
+        "name": "tab",
+        "width": 10,
+        "height": 1,
+        "html": "",
+        "classes": []
+    },
+    "6": {
+        "template_id": 6,
+        "name": "icon",
+        "width": 1,
+        "height": 1,
+        "html": "",
+        "classes": [
+            "icon"
+        ]
+    }
+}
