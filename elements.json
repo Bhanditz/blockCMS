@@ -1,118 +1,71 @@
 {
     "0": {
-        "name": "full",
-        "width": 10,
-        "height": 2,
-        "html": "",
-        "classes": [],
         "template_id": 1,
         "x": 0,
         "y": 0,
         "element_id": 0
     },
     "1": {
-        "name": "medium",
-        "width": 5,
-        "height": 3,
-        "html": "",
-        "classes": [],
         "template_id": 2,
         "x": 0,
         "y": 2,
         "element_id": 1
     },
     "2": {
-        "name": "medium",
-        "width": 5,
-        "height": 3,
-        "html": "",
-        "classes": [],
         "template_id": 2,
         "x": 5,
         "y": 2,
         "element_id": 2
     },
     "3": {
-        "name": "tab",
-        "width": 10,
-        "height": 1,
-        "html": "",
-        "classes": [],
         "template_id": 5,
         "x": 0,
         "y": 5,
         "element_id": 3
     },
     "4": {
-        "name": "small",
-        "width": 3,
-        "height": 3,
-        "html": "",
-        "classes": [],
         "template_id": 3,
         "x": 0,
         "y": 6,
         "element_id": 4
     },
     "5": {
-        "name": "small",
-        "width": 3,
-        "height": 3,
-        "html": "",
-        "classes": [],
         "template_id": 3,
         "x": 3,
         "y": 6,
         "element_id": 5
     },
     "6": {
-        "name": "small",
-        "width": 3,
-        "height": 3,
-        "html": "",
-        "classes": [],
         "template_id": 3,
         "x": 6,
         "y": 6,
         "element_id": 6
     },
     "7": {
-        "name": "mini",
-        "width": 1,
-        "height": 1,
-        "html": "",
-        "classes": [
-            "icon"
-        ],
         "template_id": 4,
         "x": 9,
         "y": 6,
         "element_id": 7
     },
     "8": {
-        "name": "mini",
-        "width": 1,
-        "height": 1,
-        "html": "",
-        "classes": [
-            "icon"
-        ],
         "template_id": 4,
         "x": 9,
         "y": 7,
         "element_id": 8
     },
     "9": {
-        "name": "mini",
-        "width": 1,
-        "height": 1,
-        "html": "",
-        "classes": [
-            "icon"
-        ],
         "template_id": 4,
         "x": 9,
         "y": 8,
         "element_id": 9
+    },
+    "10": {
+    	"name":"404",
+    	"html":"<h1>404! Page not found!!1</h1>",
+        "template_id": 1,
+        "x": 0,
+        "y": 0,
+        "element_id": 10,
+        "classes": [ "404" ]
     }
 }
